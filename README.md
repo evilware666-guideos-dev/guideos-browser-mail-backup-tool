@@ -1,5 +1,5 @@
 
-# 📦 Browser & Mail Backup‑Tool v1.4 
+# 📦 Browser & Mail Backup‑Tool v3.2  
 ### Sicherung & Wiederherstellung von Firefox, Chromium, Vivaldi, LibreWolf, Chrome, Brave Thunderbird & Geary
 **Autor:** evilware666 & Helga   
 **Version:** 1.4
@@ -222,4 +222,5 @@ Du kannst jeden Ordner wählen, z. B.:
 - Kein Live‑Backup während Browser läuft  
 - GPG‑Terminalfenster kann je nach Desktop variieren  
 - Flatpak‑Sandbox kann manche Pfade verstecken  
+
 

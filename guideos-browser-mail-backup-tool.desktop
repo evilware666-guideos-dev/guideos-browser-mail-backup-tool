@@ -1,0 +1,12 @@
+[Desktop Entry]
+# Entwickelt von evilware666 für Guideos
+Version=1.1
+Name=Browser & Mail Backup
+Comment=Sichern und Wiederherstellung von Firefox & Thunderbird-Profilen
+Exec=/bin/guideos-browser-mail-backup-tool.sh
+Icon=/usr/share/pixmaps/guideos-browser-mail-backup-tool.png
+Terminal=false
+Type=Application
+Categories=Utility;System;
+StartupNotify=true
+Name[de_DE]=Browser & Mail Backup

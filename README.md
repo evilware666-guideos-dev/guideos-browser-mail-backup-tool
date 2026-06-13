@@ -11,7 +11,7 @@
 
 ## 📝 Überblick
 
-Das **Browser & Mail Backup‑Tool v3.2** ist ein modernes GTK4‑Programm zum **Sichern und Wiederherstellen** von Browser‑ und Mail‑Profilen.  
+Das **Browser & Mail Backup‑Tool** ist ein modernes GTK4‑Programm zum **Sichern und Wiederherstellen** von Browser‑ und Mail‑Profilen.  
 Es unterstützt sowohl klassische **Debian** Paketinstallationen als auch **Snap** und **Flatpak**.
 
 Das Tool ist ideal für:

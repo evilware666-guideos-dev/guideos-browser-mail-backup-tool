@@ -1,5 +1,5 @@
 
-# 📦 Browser & Mail Backup‑Tool v3.2  
+# 📦 Browser & Mail Backup‑Tool v1.4 
 ### Sicherung & Wiederherstellung von Firefox, Chromium, Vivaldi, LibreWolf, Chrome, Brave Thunderbird & Geary
 **Autor:** evilware666 & Helga   
 **Version:** 1.4
